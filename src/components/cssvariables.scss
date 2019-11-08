@@ -1,0 +1,17 @@
+$white: rgba(254, 255, 254, 1);
+$background1: rgba(233, 235, 248, 1);
+$grey: rgba(180, 184, 197, 1);
+$color4: rgba(165, 162, 153, 1);
+$font: rgba(141, 129, 140, 1);
+$font2: darken($font, 10%);
+$lightFont: lighten($font, 30%);
+$title: 'Staatliches', cursive;
+$menu: 'McLaren', cursive;
+$p: 'ZCOOL XiaoWei', serif;
+
+@mixin desktop {
+    @media (min-width: 950px) {
+        // @media (min-width: 1061px) {
+        @content;
+    }
+}

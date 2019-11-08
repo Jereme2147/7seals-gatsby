@@ -1,0 +1,45 @@
+.container {
+  align-self: center;
+  width: 95%;
+}
+
+.container p {
+  align-self: center;
+  color: #736872;
+  padding-left: 10px;
+}
+
+.container p img {
+  align-self: center;
+}
+
+@media (min-width: 950px) {
+  .container {
+    width: 80%;
+  }
+}
+
+.container h2 {
+  color: #736872;
+  font-family: "McLaren", cursive;
+  padding: 10px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #585058;
+}
+
+.container img {
+  border: 2px solid #a5a299;
+  width: 99%;
+}
+
+.container ul {
+  list-style: none;
+  font-size: 1.2rem;
+}
+
+.titles {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

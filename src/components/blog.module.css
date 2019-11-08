@@ -1,0 +1,63 @@
+.container {
+  width: 95%;
+  align-self: center;
+}
+
+@media (min-width: 950px) {
+  .container {
+    width: 80%;
+  }
+}
+
+.container h2 {
+  font-family: "Staatliches", cursive;
+  font-size: 2rem;
+  text-align: center;
+  text-shadow: 2px 2px 2px #a5a299;
+}
+
+.container h3 {
+  font-family: "McLaren", cursive;
+  padding: 10px;
+  font-size: 1.5rem;
+  text-shadow: 1px 1px 1px #3d383d;
+  border-bottom: 2px solid #a5a299;
+}
+
+.container p {
+  font-family: "ZCOOL XiaoWei", serif;
+  padding: 0 0 10px 10px;
+}
+
+.container h2, .container h3, .container p {
+  color: #8d818c;
+}
+
+.container li {
+  background: #d6d1d5;
+  margin: 15px 0;
+}
+
+@media (min-width: 950px) {
+  .container li {
+    width: 45%;
+    margin: 15px 10px;
+  }
+}
+
+.container ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+@media (min-width: 950px) {
+  .container ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+
+.container a {
+  text-decoration: none;
+}

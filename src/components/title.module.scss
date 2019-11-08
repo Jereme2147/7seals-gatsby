@@ -1,0 +1,44 @@
+@import './cssvariables.scss';
+
+.card {
+    background: $lightFont;
+    width: 95%;
+    min-height: 200px;
+    margin-top: 20px;
+    // border: 2px solid darken($font, 20%);
+    border-radius: 5px;
+    @include desktop {
+        width: 80%;
+    }
+    h3 {
+        text-align: center;
+        font-family: $p;
+        font-size: 2rem;
+    }
+    h4 {
+        font-size: 1.5rem;
+        margin-left: 20px;
+        text-decoration: underline;
+        &:hover {
+            color: $white;
+        }
+    }
+     h5 {
+        font-size: 1.5rem;
+        margin-left: 20px;
+        // text-decoration: underline;
+        width: 50%;
+        &:hover {
+            color: $white;
+        }
+    }
+    h3,h4,h5 {
+        font-family: $p;
+        color: $font2;
+    }
+    div a {
+        text-decoration: none;
+
+    }
+
+}

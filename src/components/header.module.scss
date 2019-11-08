@@ -1,0 +1,79 @@
+
+$white: rgba(254, 255, 254, 1);
+$background1: rgba(233, 235, 248, 1);
+$grey: rgba(180, 184, 197, 1);
+$color4: rgba(165, 162, 153, 1);
+$font: rgba(141, 129, 140, 1);
+@mixin desktop {
+    @media (min-width: 950px) {
+        // @media (min-width: 1061px) 
+        @content;
+    }
+}
+.active {
+    background: $white;
+}
+.logoDiv {
+    width: 40%;
+    display: flex;
+    // justify-content: center;
+    align-items: center;
+
+    img {
+        width: 90px;
+        margin-left: 20px;
+        @include desktop() {
+            margin-left: 50px;
+            margin-top: 30px;
+            width: 100px;
+            position: absolute;
+        }
+    }
+    
+}
+.menu {
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    // justify-self: flex-end;
+    ul {
+        display: flex;
+        justify-content: space-around;
+        width: 90%;
+        list-style-type: none;
+        padding: 0;
+        margin: 0 0 0 0;
+    }
+    ul a {
+        text-decoration: none;
+        color: $font;
+        font-size: 1.2rem;
+        text-shadow: 1px 1px 1px darken($font, 10%);
+        padding: 3px 3px 0 3px;
+        @include desktop() {
+        font-size: 1.6rem;
+        }
+        &:hover {
+            color: darken($font, 20%);
+        }
+    }
+
+    
+    p {
+        color: $font;
+        font-size: 1.4rem;
+        text-shadow: 1px 1px 1px darken($font, 10%);
+        @include desktop() {
+        font-size: 1.6rem;
+        }
+    }
+
+}
+.nav {
+    width: 100%;
+    height: 100px;
+    background: $background1;
+    display: flex;
+    // justify-content: space-around;
+}

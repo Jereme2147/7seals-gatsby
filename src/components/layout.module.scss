@@ -1,0 +1,39 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+
+}
+@mixin desktop {
+    @media (min-width: 950px) {
+        // @media (min-width: 1061px) 
+        @content;
+    }
+}
+$white: rgba(254, 255, 254, 1);
+$background1: rgba(233, 235, 248, 1);
+$grey: rgba(180, 184, 197, 1);
+$color4: rgba(165, 162, 153, 1);
+$font: rgba(141, 129, 140, 1);
+.container {
+    background: $color4;
+    min-height: 95vh; //remove me
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    // flex-direction: column;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background: $white;
+    @include desktop() {
+        width: 80%;
+        max-width: 1000px;
+    }
+}
+.main {
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+}

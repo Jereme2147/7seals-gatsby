@@ -1,0 +1,35 @@
+.container {
+  align-self: center;
+  width: 95%;
+  background: #e9ebf8;
+}
+
+.container p {
+  align-self: center;
+  color: #736872;
+  padding-left: 10px;
+}
+
+.container p img {
+  align-self: center;
+}
+
+@media (min-width: 950px) {
+  .container {
+    width: 80%;
+  }
+}
+
+.container h2 {
+  color: #736872;
+  padding: 10px;
+}
+
+.container img {
+  border: 2px solid #a5a299;
+  width: 99%;
+}
+
+.container ul {
+  font-size: 1.2rem;
+}

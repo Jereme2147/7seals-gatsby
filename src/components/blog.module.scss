@@ -1,0 +1,49 @@
+@import './cssvariables.scss';
+
+.container {
+    width: 95%;
+    align-self: center;
+    @include desktop() {
+        width: 80%;
+    }
+    h2 {
+        font-family: $title;
+        font-size: 2rem;
+        text-align: center;
+        text-shadow: 2px 2px 2px $color4;
+    }
+    h3 {
+        font-family: $menu;
+        padding: 10px;
+        font-size: 1.5rem;
+        text-shadow: 1px 1px 1px darken($font, 30%);
+        border-bottom: 2px solid $color4;
+    }
+    p {
+        font-family: $p;
+        padding: 0 0 10px 10px;
+    }
+    h2, h3, p {
+        color: $font;
+    }
+    li {
+        background: $lightFont;
+        margin: 15px 0;
+        @include desktop() {
+            width: 45%;
+            margin: 15px 10px;
+        }
+    }
+    ul {
+        list-style-type: none;
+        padding: 10px;
+        @include desktop() {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+    }
+    a {
+        text-decoration: none;
+    }
+}

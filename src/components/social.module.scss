@@ -1,0 +1,26 @@
+$white: rgba(254, 255, 254, 1);
+$background1: rgba(233, 235, 248, 1);
+$grey: rgba(180, 184, 197, 1);
+$color4: rgba(165, 162, 153, 1);
+$font: rgba(141, 129, 140, 1);
+$font2: darken($font, 10%);
+@mixin desktop {
+    @media (min-width: 950px) {
+        // @media (min-width: 1061px) {
+        @content;
+    }
+}
+.social {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-bottom: 2px solid $font;
+    a {
+        font-size: 3rem;
+        color: darken($font, 20%);
+        transition: 0.4s;
+        &:hover {
+            color: $grey;
+        }
+    }
+}

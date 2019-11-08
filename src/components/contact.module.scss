@@ -1,0 +1,42 @@
+@import './cssvariables.scss';
+
+.container {
+    align-self: center;
+    width: 95%;
+    // background: $lightFont;
+    p {
+        align-self: center;
+        color: $font2;
+        padding-left: 10px;
+        
+    }
+    p img {
+        align-self: center;
+    }
+    @include desktop() {
+        width: 80%;
+    }
+    h2 {
+        color: $font2;
+        font-family: $menu;
+        padding: 10px;
+        text-align: center;
+        text-shadow: 1px 1px 1px darken($font, 20%);
+    }
+
+
+    img {
+        border: 2px solid $color4;
+        width: 99%;
+    }
+    ul {
+        list-style: none;
+        font-size: 1.2rem;
+    }
+}
+.titles {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
