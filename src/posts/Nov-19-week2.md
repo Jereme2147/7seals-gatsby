@@ -2,7 +2,7 @@
 title: "Week 2 of November Cycle"
 date: "2019-11-7"
 ---
-![workouts](week2.jpg)
+![workouts](./week2.jpg)
 *  ### 11/11/19
 "McGhee" 
 It's been a long time since I've done this one.  Like ACF long. As always, focus on non-fail push ups.
