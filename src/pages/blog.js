@@ -11,7 +11,7 @@ const BlogPage = () => {
 	    allMarkdownRemark (
             sort: {
             fields: [frontmatter___date]
-            order: DESC
+            order: ASC
             }
             )
           {

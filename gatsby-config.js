@@ -8,7 +8,7 @@
 module.exports = {
   
   // pathPrefix: '/posts',
-  pathPrefix: 'test/',
+  pathPrefix: '7seals/',
   /* Your site config here */
   siteMetadata: {
     title: '7Seals CrossFit Coaches blog',

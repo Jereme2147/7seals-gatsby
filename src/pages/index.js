@@ -13,7 +13,7 @@ const IndexPage = () => {
             limit: 2,
             sort: {
             fields: [frontmatter___date]
-            order: DESC
+            order: ASC
     }
   ) {
             edges {
