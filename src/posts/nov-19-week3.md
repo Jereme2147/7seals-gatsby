@@ -2,8 +2,7 @@
 title: "Week 3 of November Cycle"
 date: "2019-11-8"
 ---
-
-![workouts](.pages/posts/week3.png)
+![workouts](week3.jpg)
 *  ### 11/18/19
     The feedback was so good on this one, I had to revisit it.
 * ### 11/19/19 

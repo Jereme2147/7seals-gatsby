@@ -28,7 +28,7 @@ const Header = () => {
                 {data.allFile.edges.map((file, index) => {
                     return (
                         // <img src={file.node.publicURL} alt="logo" /> did not need this or query
-                    <img src={withPrefix("/media/logo.png")} alt="logo" />
+                    <img src={withPrefix("/alogo.png")} alt="logo" />
                     )
                 })}
             </div>

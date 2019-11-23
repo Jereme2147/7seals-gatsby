@@ -3,7 +3,7 @@ title: "Week 4 of November Cycle"
 date: "2019-11-22"
 ---
 
-![workouts](.pages/posts/week4.png)
+![workouts](week4.jpg)
 *  ### 11/25/19
     Rest as needed for the strength.  Keep weights safe. Metcon should be straight forward.
 * ### 11/26/19 

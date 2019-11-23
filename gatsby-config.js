@@ -5,10 +5,11 @@
  */
 //to install font awesome
 //npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
+//IMPORTANT build with - gatsby build --prefix-paths
 module.exports = {
   
   // pathPrefix: '/posts',
-  pathPrefix: '7seals/',
+  // pathPrefix: '7seals/',
   /* Your site config here */
   siteMetadata: {
     title: '7Seals CrossFit Coaches blog',
