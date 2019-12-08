@@ -13,7 +13,7 @@ const IndexPage = () => {
             limit: 2,
             sort: {
             fields: [frontmatter___date]
-            order: ASC
+            order: DESC
     }
   ) {
             edges {
@@ -32,9 +32,10 @@ const IndexPage = () => {
         }
     `
   )
+        // const myArray = data.allMarkdownRemark.edges.reverse();
     return (
         <Layout>
-        {data.allMarkdownRemark.edges.map((edge) => {
+        {data.allMarkdownRemark.edges.reverse().map((edge) => {
          return (   
             <div className={indexStyles.container}>
                 <h2>{edge.node.frontmatter.title}</h2>
