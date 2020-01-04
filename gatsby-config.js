@@ -5,7 +5,8 @@
  */
 //to install font awesome
 //npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome
-//IMPORTANT build with - gatsby build --prefix-paths
+//IMPORTANT build with - gatsby build --prefix-paths -Also, I just cloned the public folder and it seems to have worked fine. 
+//need to figure out how the fuck it's sorting.  Commented out all the date lines.
 module.exports = {
   
   // pathPrefix: '/posts',

@@ -1,6 +1,6 @@
 ---
 title: "Week 7 of November Cycle"
-date: "7. 2019-12-08"
+date: "g"
 ---
 
 ![workouts](./week7.jpg)

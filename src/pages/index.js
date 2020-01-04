@@ -39,7 +39,7 @@ const IndexPage = () => {
          return (   
             <div className={indexStyles.container}>
                 <h2>{edge.node.frontmatter.title}</h2>
-                <h4>{edge.node.frontmatter.date}</h4>
+                {/* <h4>{edge.node.frontmatter.date}</h4> */}
                 <div dangerouslySetInnerHTML={{ __html: edge.node.html }}></div>
             </div>)
         })}
