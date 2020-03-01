@@ -1,9 +1,9 @@
 ---
 title: "Week 7 of November Cycle"
-date: "g"
+date: "gg"
 ---
 
-![workouts](./week7.jpg)
+![workouts](./nov-19-week7.jpg)
 *  ### 12/16/19
     Just remember proper KB front rack. Fist under the chin, elbow tucked.  
 * ### 12/17/19 

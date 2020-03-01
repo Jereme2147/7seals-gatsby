@@ -1,9 +1,9 @@
 ---
 title: "Week 4 of November Cycle"
-date: "d"
+date: "dd"
 ---
 
-![workouts](./week4.jpg)
+![workouts](./nov-19-week4.jpg)
 *  ### 11/25/19
     Rest as needed for the strength.  Keep weights safe. Metcon should be straight forward.
 * ### 11/26/19 

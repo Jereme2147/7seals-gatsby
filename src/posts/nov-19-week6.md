@@ -1,9 +1,9 @@
 ---
 title: "Week 6 of November Cycle"
-date: "f"
+date: "ff"
 ---
 
-![workouts](./week6.jpg)
+![workouts](./nov-19-week6.jpg)
 *  ### 12/9/19
     Look for times 5-7ish on this.  Maybe let athletes know they can adjust their reps from a "hip" driven press to a shoulder press.  This seems to move the focus from the quads to the shoulders and helps you keep moving.
 * ### 12/10/19

@@ -1,9 +1,9 @@
 ---
 title: "Week 8 of November Cycle"
-date: "h"
+date: "hh"
 ---
 
-![workouts](./week8.jpg)
+![workouts](./nov-19-week8.jpg)
 *  ### 12/23/19
     Lunge is a single DB. I think this should be easier than the last one on thanksgiving.  Time cap is up to coach.  I doubt anyone is finishing this sub 45 minutes though.  These things are always really hard to tell. Weights are light, I feel like it should move fairly quickly.  Not sure anyone really needs to Rx+.
 * ### 12/24/19 

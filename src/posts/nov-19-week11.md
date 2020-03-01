@@ -1,9 +1,9 @@
 ---
 title: "Week 11 of November Cycle"
-date: "k"
+date: "kk"
 ---
 
-![workouts](./week11.jpg)
+![workouts](./nov-19-week11.jpg)
 *  ### 1/13/20
     First and second round of thrusters shouldn't really be unbroken.  Maybe even sets of 5.  I'd use spare class time to do a gymnastics progression.  Probably not HSPU due to strict press tomorrow. 
 * ### 1/14/20

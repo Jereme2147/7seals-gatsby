@@ -1,9 +1,9 @@
 ---
 title: "Week 9 of November Cycle"
-date: "i"
+date: "ii"
 ---
 
-![workouts](./week9.jpg)
+![workouts](./nov-19-week9.jpg)
 *  ### 12/30/19
     Strength is dynamic. Don't get hurt.. Metcon will be spread out, mostly due to HSPU.
 * ### 12/31/19 

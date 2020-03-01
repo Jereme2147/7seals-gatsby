@@ -1,8 +1,8 @@
 ---
 title: "Week 3 of November Cycle"
-date: "c"
+date: "cc"
 ---
-![workouts](week3.jpg)
+![workouts](./nov-19-week3.jpg)
 *  ### 11/18/19
     The feedback was so good on this one, I had to revisit it.
 * ### 11/19/19 

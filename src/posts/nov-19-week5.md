@@ -1,9 +1,9 @@
 ---
 title: "Week 5 of November Cycle"
-date: "e"
+date: "ee"
 ---
 
-![workouts](./week5.jpg)
+![workouts](./nov-19-week5.jpg)
 *  ### 12/2/19
     This is a tough wod.  The s2oh hits you hard and fast.  3 rounds is great. 
 * ### 12/3/19 

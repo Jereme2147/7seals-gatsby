@@ -1,9 +1,9 @@
 ---
 title: "Week 10 of November Cycle"
-date: "j"
+date: "jj"
 ---
 
-![workouts](./week10.jpg)
+![workouts](./nov-19-week10.jpg)
 *  ### 1/6/20
     Pretty clear I think.  Lots of volume..
 * ### 1/7/20
