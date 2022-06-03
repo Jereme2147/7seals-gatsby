@@ -24,7 +24,7 @@
     "@mdx-js/react": "^1.5.1",
     "gatsby": "^2.15.36",
     "gatsby-plugin-catch-links": "^2.1.15",
-    "gatsby-plugin-mdx": "^1.0.53",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-react-helmet": "^3.1.13",
     "gatsby-plugin-sass": "^2.1.18",
